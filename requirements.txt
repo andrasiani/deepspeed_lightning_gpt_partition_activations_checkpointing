@@ -1,0 +1,6 @@
+pytorch-lightning==1.9.4
+deepspeed==0.9.3
+numpy
+psutil
+torch
+pynvml
