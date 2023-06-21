@@ -1,3 +1,12 @@
+# This codebase is a slightly modified version of Sean Naren's:
+https://github.com/SeanNaren/minGPT/tree/deepspeed
+Changelog:
+- upgrade to newer pytorch lightning version 1.9.4
+- deepspeed 0.9.3
+
+
+
+  
 # minGPT DeepSpeed
 
 Modified [Andrej's](https://github.com/karpathy/minGPT) and [William's](https://github.com/williamFalcon/minGPT) awesome code to provide a benchmark script and show how to train a model from scratch using DeepSpeed.
